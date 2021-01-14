@@ -5,9 +5,8 @@ import (
 	"errors"
 	"testing"
 
+	"github.com/golang/protobuf/proto" //nolint:staticcheck
 	"github.com/stretchr/testify/assert"
-
-	"github.com/golang/protobuf/proto"
 )
 
 func TestEncodeDecode(t *testing.T) {
