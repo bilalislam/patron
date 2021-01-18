@@ -15,8 +15,8 @@ require (
 	github.com/go-redis/redis/extra/rediscmd v0.2.0
 	github.com/go-redis/redis/v8 v8.4.4
 	github.com/go-sql-driver/mysql v1.5.0
-	github.com/google/uuid v1.1.4
 	github.com/golang/protobuf v1.4.2
+	github.com/google/uuid v1.1.4
 	github.com/gotestyourself/gotestyourself v2.2.0+incompatible // indirect
 	github.com/hashicorp/golang-lru v0.5.3
 	github.com/julienschmidt/httprouter v1.2.0
